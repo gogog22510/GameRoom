@@ -1,0 +1,9 @@
+.idea
+.gradle
+.project
+.settings
+.classpath
+bin
+build
+node_modules
+__pycache__
